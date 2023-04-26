@@ -1,0 +1,5 @@
+- 👨‍💻 Victor Eduardo, 18 Anos
+- 👀 João pessoa-PB
+- 💻 Gosto muito de Programar!
+- ☕ Café
+- 📫 Cursando Sistemas Para internet.
