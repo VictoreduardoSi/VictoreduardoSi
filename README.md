@@ -3,3 +3,4 @@
 - 💻 Gosto muito de Programar!
 - ☕ Café
 - 📫 Cursando Sistemas Para internet.
+- 🎮 Gosto de jogos! 
