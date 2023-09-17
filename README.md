@@ -27,6 +27,10 @@
 <div style="display: inline_block"><br/>
 <img aLign="center" aLt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
+
+
+
+
 [![instagram ](https://img.shields.io/badge/linktree-44e44a?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/victor_eduardo.si)
 
 ### Apaixonado por tecnologias, Busco sempre aprender coisas novas relacionadas a Programação
