@@ -1,31 +1,126 @@
+<div align="center">
 
-### Olá eu sou Victor  Eduardo 🖐
+# 👋 Olá, eu sou Victor Eduardo
 
-[![instagram ](https://img.shields.io/badge/Instagram-1c28c2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_victorx17/)
+### 💻 Desenvolvedor Web em formação
 
-<div style="display: inline_block"><br/>
-<img aLign="center" aLt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p>
+  Transformando ideias em experiências digitais modernas, funcionais e escaláveis.
+</p>
 
-### victoreduardo.s.i17@gmail.com
+</div>
+<div align="center">
 
-![victor github stats](https://github-readme-stats.vercel.app/api?username=VictoreduardoSi&show_icons=true&theme=adical)
+<a href="https://github.com/VictoreduardoSi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-## Tecnologias que utilizo no meu dia a dia
+<a href="mailto:Victoreduardo.s.i17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<div style="display: inline_block"><br/>
-<img aLign="center" aLt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<a href="https://www.instagram.com/_victorebarbosa/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<div style="display: inline_block"><br/>
-<img aLign="center" aLt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+---
 
-<div style="display: inline_block"><br/>
-<img aLign="center" aLt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+## 🚀 Sobre mim
 
-<div style="display: inline_block"><br/>
-<img aLign="center" aLt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+Olá! Eu sou **Victor Eduardo**, estudante de **Sistemas para Internet** na UNIESP e apaixonado por tecnologia, programação e desenvolvimento de produtos digitais.
 
-<div style="display: inline_block"><br/>
-<img aLign="center" aLt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+Atualmente, estou focado no desenvolvimento **Web**, buscando evoluir constantemente na criação de aplicações modernas, responsivas e escaláveis.
 
+Tenho interesse em transformar problemas e ideias em soluções digitais reais, explorando desde a criação de interfaces até o desenvolvimento de sistemas completos.
 
-### Apaixonado por tecnologias, Busco sempre aprender coisas novas relacionadas a Programação
+💡 **Meu objetivo:** evoluir como desenvolvedor, construir projetos relevantes e criar soluções que realmente gerem valor.
+
+---
+
+## 🛠️ Tecnologias
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" />
+</p>
+
+### Back-end & Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,postgres,prisma" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### ⚖️ Sistema para Advocacia
+
+Sistema web desenvolvido para gerenciamento e atendimento de clientes de um escritório de advocacia.
+
+**Tecnologias:**
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
+
+[🔗 Ver projeto](https://www.edsonbarbosajuridico.com.br/)
+
+### 🌐 Proposta Rápida
+
+Desenvolvimento de sites e landing pages modernos, responsivos e focados em conversão.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript` `React` `Next.js`
+
+[🔗 Ver projeto](https://proposta-rapida-blue.vercel.app/)
+
+---
+
+## 🌱 Atualmente estudando
+
+- ⚛️ React
+- ▲ Next.js
+- 🔷 TypeScript
+- 🗄️ PostgreSQL
+- 🔺 Prisma ORM
+- 🔌 APIs REST
+- 🔐 Autenticação
+- 🚀 Arquitetura de aplicações
+- 📦 Boas práticas de desenvolvimento
+---
+
+## 🎯 Objetivos
+
+Meu objetivo é me tornar um desenvolvedor cada vez mais completo e preparado para construir aplicações que resolvam problemas reais.
+
+Busco constantemente melhorar minhas habilidades técnicas, aprender novas tecnologias e transformar conhecimento em projetos práticos.
+
+> **"Não quero apenas aprender tecnologia. Quero aprender a criar coisas que façam a diferença."**
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+Se você quiser trocar uma ideia sobre tecnologia, programação ou algum projeto, fique à vontade para entrar em contato.
+
+<br>
+
+<a href="mailto:Victoreduardo.s.i17@gmail.com">
+  <img src="https://img.shields.io/badge/Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
